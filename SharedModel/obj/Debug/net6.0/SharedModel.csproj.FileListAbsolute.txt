@@ -1,0 +1,12 @@
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\bin\Debug\net6.0\SharedModel.deps.json
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\bin\Debug\net6.0\SharedModel.dll
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\bin\Debug\net6.0\SharedModel.pdb
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.csproj.AssemblyReference.cache
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.AssemblyInfoInputs.cache
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.AssemblyInfo.cs
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.csproj.CoreCompileInputs.cache
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.dll
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\refint\SharedModel.dll
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\SharedModel.pdb
+C:\Users\Intikhab_Qaiser\source\repos\MBAWithRabbitMQ\SharedModel\obj\Debug\net6.0\ref\SharedModel.dll
